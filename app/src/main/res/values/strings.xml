@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VP</string>
+    <string name="button">Play</string>
+    <string name="button2">Pause</string>
+    <string name="button3">Exit</string>
+    <string name="button4">Stop</string>
+    <string name="button5">SeekBAck</string>
+    <string name="button6">SeekForward</string>
+</resources>
